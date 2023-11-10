@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Yuze Wang is a master of research of medical technology. He is committed to applying artificial intelligence and virtual reality to human health and well-being. His research areas include medical imaging, surgical innovation, and patient rehabilitation.
+Yuze Wang is a master of research in medical technology. He is committed to applying artificial intelligence and virtual reality to human health and well-being. His research interests include medical imaging, surgical innovation, and patient rehabilitation.
 {style="text-align: justify;"}

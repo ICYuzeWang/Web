@@ -52,7 +52,7 @@ sections:
       columns: '1'
   - block: experience
     content:
-      title: Experience
+      title: Educational Background
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -62,34 +62,35 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Master of Research
+          company: Imperial College London
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          company_logo: org-ic
+          location: London
+          date_start: '2022-10-01'
+          date_end: '2023-10-01'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              Major: Medical Robotics and Image-Guided Intervention (Master of Research)
+Course Modules: Medical and Surgical Imaging; Image Guided Intervention; Medical Robotics and Instrumentation; Minimally invasive Surgery; Sensing, Perception and Neuroergonomics
+Research Topic: The Use of 3D Reconstruction and Virtual Reality to Support Prospective Bariatric Surgery Patients
+Grade: High Merit
+        - title: Bachelor of Medicine
+          company: Tianjin Medical University
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: org-tmu
+          location: Tianjin
+          date_start: '2017-09-01'
+          date_end: '2022-06-30'
+          description:
+               Major: Medical Imaging
+               Grade: 87.29, Ranking: 3/61
     design:
       columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
+      # title: 'Accomplish&shy;ments'
+      # subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       # Accomplishments.
@@ -97,63 +98,63 @@ sections:
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
-    design:
-      columns: '2'
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
+      # items:
+      #  - certificate_url: https://www.coursera.org
+      #    date_end: ''
+      #    date_start: '2021-01-25'
+      #    description: ''
+      #    icon: coursera
+      #    organization: Coursera
+      #    organization_url: https://www.coursera.org
+      #    title: Neural Networks and Deep Learning
+      #    url: ''
+      #  - certificate_url: https://www.edx.org
+      #    date_end: ''
+      #    date_start: '2021-01-01'
+      #    description: Formulated informed blockchain models, hypotheses, and use cases.
+      #    icon: edx
+      #    organization: edX
+      #    organization_url: https://www.edx.org
+      #    title: Blockchain Fundamentals
+      #    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+      #  - certificate_url: https://www.datacamp.com
+      #    date_end: '2020-12-21'
+      #    date_start: '2020-07-01'
+      #    description: ''
+      #    icon: datacamp
+      #    organization: DataCamp
+      #    organization_url: https://www.datacamp.com
+      #    title: 'Object-Oriented Programming in R'
+      #    url: ''
+   # design:
+     # columns: '2'
+ # - block: collection
+   # id: posts
+   # content:
+   #   title: Recent Posts
+   #   subtitle: ''
+   #   text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+   #   count: 5
       # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
+   #   filters:
+   #     folders:
+   #       - post
+   #     author: ""
+   #     category: ""
+   #     tag: ""
+   #     exclude_featured: false
+   #     exclude_future: false
+   #     exclude_past: false
+   #     publication_type: ""
       # Choose how many pages you would like to offset by
-      offset: 0
+   #   offset: 0
       # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
+   #   order: desc
+  #  design:
       # Choose a layout view
-      view: compact
-      columns: '2'
+   #   view: compact
+   #   columns: '2'
   - block: portfolio
     id: projects
     content:
