@@ -80,10 +80,9 @@ sections:
           location: Tianjin
           date_start: '2017-09-01'
           date_end: '2022-06-30'
-          description:
-               Major: Medical Imaging
-    # design:
-      # columns: '2'
+          description: Major: Medical Imaging          
+     design:
+       columns: '2'
 - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
