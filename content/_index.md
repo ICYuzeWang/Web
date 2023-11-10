@@ -84,19 +84,19 @@ sections:
                Major: Medical Imaging
     design:
       columns: '2'
-  - block: accomplishments
+- block: accomplishments
     content:
-       Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-       title: 'Accomplish&shy;ments'
-       subtitle:
-       Date format: https://docs.hugoblox.com/customization/#date-format
-       date_format: Jan 2006
-       Accomplishments.
-         Add/remove as many `item` blocks below as you like.
-         `title`, `organization`, and `date_start` are the required parameters.
-         Leave other parameters empty if not required.
-         Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-       items:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Accomplish&shy;ments'
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
         - certificate_url: https://www.coursera.org
           date_end: ''
           date_start: '2021-01-25'
@@ -132,9 +132,9 @@ sections:
       title: Recent Posts
       subtitle: ''
       text: ''
-       Choose how many pages you would like to display (0 = all pages)
+      # Choose how many pages you would like to display (0 = all pages)
       count: 5
-       Filter on criteria
+      # Filter on criteria
       filters:
         folders:
           - post
@@ -145,12 +145,12 @@ sections:
         exclude_future: false
         exclude_past: false
         publication_type: ""
-       Choose how many pages you would like to offset by
+      # Choose how many pages you would like to offset by
       offset: 0
-       Page order: descending (desc) or ascending (asc) date.
+      # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
-       Choose a layout view
+      # Choose a layout view
       view: compact
       columns: '2'
   - block: portfolio
