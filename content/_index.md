@@ -79,7 +79,7 @@ sections:
           company_logo: org-tmu
           location: Tianjin
           date_start: '2017-09-01'
-          date_end: '2022-06-30'
+          date_end: ''
           description: Major: Medical Imaging          
      design:
        columns: '2'
