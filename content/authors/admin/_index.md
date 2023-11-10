@@ -36,12 +36,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Master of Research in Medical Robotics and Image-Guided Intervention
+    - course: Master of Research
       institution: Imperial College London, United Kingdom
-      year: 2022-2023
-    - course: Bachelor of Medicine in Medical Imaging
+      year: 2023
+    - course: Bachelor of Medicine
       institution: Tianjin Medical University, China
-      year: 2017-2022
+      year: 2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

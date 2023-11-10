@@ -71,8 +71,8 @@ sections:
           date_end: '2023-10-01'
           description: |2-
               Major: Medical Robotics and Image-Guided Intervention (Master of Research)
-Course Modules: Medical and Surgical Imaging; Image Guided Intervention; Medical Robotics and Instrumentation; Minimally invasive Surgery; Sensing, Perception and Neuroergonomics
-Research Topic: The Use of 3D Reconstruction and Virtual Reality to Support Prospective Bariatric Surgery Patients
+              Course Modules: Medical and Surgical Imaging; Image Guided Intervention; Medical Robotics and Instrumentation; Minimally Invasive Surgery; Sensing, Perception and Neuroergonomics
+              Research Topic: The Use of 3D Reconstruction and Virtual Reality to Support Prospective Bariatric Surgery Patients
         - title: Bachelor of Medicine
           company: Tianjin Medical University
           company_url: ''
@@ -82,7 +82,6 @@ Research Topic: The Use of 3D Reconstruction and Virtual Reality to Support Pros
           date_end: '2022-06-30'
           description:
                Major: Medical Imaging
-               Grade: 87.29, Ranking: 3/61
     design:
       columns: '2'
   - block: accomplishments
