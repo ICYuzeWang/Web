@@ -14,10 +14,10 @@ image:
 
 links:
   - icon: Slides
-    icon_pack: ai
+    name: Slides
     url: uploads/VR.pdf
   - icon: Thesis
-    icon_pack: ai
+    name: Thesis
     url: uploads/MT.pdf
 url_code: ''
 url_pdf: ''
