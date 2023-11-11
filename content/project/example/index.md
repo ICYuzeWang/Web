@@ -13,10 +13,12 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
+  - icon: Slides
+    icon_pack: ai
     url: uploads/VR.pdf
+  - icon: Thesis
+    icon_pack: ai
+    url: uploads/MT.pdf
 url_code: ''
 url_pdf: ''
 url_slides: ''
