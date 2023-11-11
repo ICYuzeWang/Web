@@ -16,7 +16,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: example/VR.pdf
+    url: upload/VR.pdf
 url_code: ''
 url_pdf: ''
 url_slides: ''
