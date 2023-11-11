@@ -67,10 +67,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
+        - name: VR
+          tag: VR
         - name: Deep Learning
           tag: Deep Learning
-        - name: Other
-          tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -85,7 +85,7 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
+      email: yw422@ic.ac.uk
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
