@@ -83,7 +83,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        If you have a relevant research position or job opportunity, please contact me!
       # Contact (add or remove contact options as necessary)
       email: yw422@ic.ac.uk
       # Automatically link email and phone or display as text?

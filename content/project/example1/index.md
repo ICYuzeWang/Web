@@ -15,6 +15,12 @@ links:
   - icon: Thesis
     name: Thesis
     url: uploads/MT.pdf
+  - icon: Codes
+    name: Codes
+    url: https://github.com/ICYuzeWang/3DModelling.git
+  - icon: Poster
+    name: Poster
+    url: uploads/PosterVR.pdf
 ---
 
 As the prevalence of obesity surges, an increasing number of individuals are resorting to bariatric surgery to safeguard their health. While 3-D reconstruction and virtual reality emerge as potent tools for bolstering psychological support to these patients, thereby enhancing their body image satisfaction and the overall effectiveness of interventions, challenges persist. The prolonged nature of the reconstruction process, intricate procedures, limited accuracy in the reconstructions, and a lack of variability in the presentation of the reconstructed results have impeded the widespread adoption of this promising approach.
