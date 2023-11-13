@@ -56,13 +56,13 @@ skills:
       - name: Matlab
         description: ''
         percent: 100
-        icon: chart-line
+        icon: m
         icon_pack: fas
       - name: C#
         description: ''
         percent: 60
-        icon: database
-        icon_pack: fas
+        icon: c
+        icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -70,17 +70,17 @@ skills:
       - name: Football
         description: ''
         percent: 100
-        icon: person-hiking
+        icon: futbol
         icon_pack: fas
       - name: Photography
         description: ''
         percent: 80
-        icon: cat
+        icon: image
         icon_pack: fas
       - name: Cook
         description: ''
         percent: 50
-        icon: camera-retro
+        icon: cookie
         icon_pack: fas
 
 # Social/Academic Networking
