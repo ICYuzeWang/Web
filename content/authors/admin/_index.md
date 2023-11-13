@@ -1,9 +1,8 @@
 ---
 # Display name
-title: 王禹泽
+title: Yuze Wang
 
-# Name pronunciation (optional)
-name_pronunciation: Wang Yu Ze
+
 
 # Full name (for SEO)
 first_name: Yuze
@@ -25,7 +24,7 @@ organizations:
     url: https://www.imperial.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yuze Wang is a master of research in medical technology. He is committed to applying artificial intelligence and virtual reality to human health and well-being. His research interests include medical imaging, surgical innovation, and patient rehabilitation.
+bio: Yuze Wang is a master of research in medical technology. He is committed to applying artificial intelligence and virtual reality to human health and well-being. His research interests include medical imaging, surgical innovation and patient rehabilitation.
 
 # Interests to show in About widget
 interests:
@@ -108,5 +107,5 @@ social:
 highlight_name: true
 ---
 
-Yuze Wang is a master of research in medical technology. He is committed to applying artificial intelligence and virtual reality to human health and well-being. His research interests include medical imaging, surgical innovation, and patient rehabilitation.
+Yuze Wang is a master of research in medical technology. He is committed to applying artificial intelligence and virtual reality to human health and well-being. His research interests include medical imaging, surgical innovation and patient rehabilitation.
 {style="text-align: justify;"}
