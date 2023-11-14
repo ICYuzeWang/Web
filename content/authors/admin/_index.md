@@ -29,8 +29,9 @@ bio: Yuze Wang is a master of research in medical technology. He is committed to
 # Interests to show in About widget
 interests:
   - Medical Imaging
+  - Medical Robotics
   - Artificial Intelligence
-  - Virtual Reality
+  - VR/AR
 
 # Education to show in About widget
 education:
